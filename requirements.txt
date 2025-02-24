@@ -1,6 +1,7 @@
 streamlit
 ollama
 langchain
+langchain-community
 faiss-cpu
 pypdf
 python-docx
